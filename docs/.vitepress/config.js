@@ -1,4 +1,5 @@
 export default {
+  base: "dao-lib",
   themeConfig: {
     siteTitle: "道库",
     nav: [
